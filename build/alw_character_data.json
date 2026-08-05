@@ -1,0 +1,10 @@
+{
+    "bb_questions": [
+        [
+            [["Question name", "Character name", "Quiz"], ["Answer one", "Result"], ["Answer two", "Result"], ["Answer three", "Result"], ["Answer four", "Result"]],
+            [["How many salvagable animatronics are at this location?", "BB", "Quiz"], ["5", "BB_Quiz_Fail"], ["6", "BB_Quiz_Fail"], ["7", "BB_Quiz_2"], ["8", "BB_Quiz_Fail"]]
+        ],
+        [],
+        []
+    ]
+}
