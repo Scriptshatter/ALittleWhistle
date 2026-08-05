@@ -1,0 +1,3 @@
+/home/script/Downloads/cmakegasg/build/CMakeFiles/aLittleWhistle.dir
+/home/script/Downloads/cmakegasg/build/CMakeFiles/edit_cache.dir
+/home/script/Downloads/cmakegasg/build/CMakeFiles/rebuild_cache.dir
