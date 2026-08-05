@@ -1,3 +1,0 @@
-/usr/bin/cmake -E rm -f CMakeFiles/aLittleWhistle.dir/objects.a
-/usr/bin/x86_64-w64-mingw32-ar qc CMakeFiles/aLittleWhistle.dir/objects.a @CMakeFiles/aLittleWhistle.dir/objects1.rsp
-/usr/bin/x86_64-w64-mingw32-g++ -O3 -DNDEBUG -shared -static -s -o aLittleWhistle.dll -Wl,--out-implib,libaLittleWhistle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles/aLittleWhistle.dir/objects.a -Wl,--no-whole-archive @CMakeFiles/aLittleWhistle.dir/linkLibs.rsp
